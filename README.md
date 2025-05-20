@@ -50,7 +50,6 @@
 
 ## 📫 Reach Out
 
-📎 [View My Resume](https://ansh2099.github.io/Resume/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshpreet-singh-03855a31a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ansh2099)
 
