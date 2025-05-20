@@ -42,7 +42,6 @@
 - Mastering **Data Structures & Algorithms**
 - Building frontends with **ReactJS** for full-stack integration
 - Exploring **Spring AI** for real-world intelligent systems
-- Preparing to apply for **backend internships** starting **July**
 - Deepening knowledge in **microservices** and **cloud-native development**
 
 ---
