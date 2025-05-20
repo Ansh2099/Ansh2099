@@ -15,7 +15,7 @@
 
 - 💻 Backend-focused developer building production-ready APIs with **Java + Spring Boot**
 - 🔐 Experienced with **Spring Security** and **Keycloak** for robust auth systems
-- 🗃️ Working with **PostgreSQL**, **MySQL**, and **Cloudinary** for scalable data & file management
+- 🗃️ Working with **PostgreSQL**and **Cloudinary** for scalable data & file management
 - 🐳 Using **Docker** for containerization and deploying on **Render**, **Netlify**
 - ⚛️ Currently learning **ReactJS** to support full-stack development needs
 - 🎯 Long-term vision: **AI-powered tools, solid system design, and scalable software**
@@ -27,7 +27,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
