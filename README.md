@@ -35,19 +35,20 @@
 
 ---
 
-## 🧠 Currently Exploring
+## 🚧 Focus Areas
 
-- Strengthening core **DSA** concepts
-- Preparing to apply for **internships starting July**
-- Starting an **AI-powered email reply project** using **Spring AI**
-- Learning the basics of **microservices** and **Kubernetes**
-
+- Strengthening fundamentals in **Data Structures & Algorithms**
+- Learning **ReactJS** for building seamless frontends
+- Preparing to **apply for backend internships** starting **July**
+- Exploring **Spring AI**, **microservices**, and **container orchestration**
+- 
 ---
 
 ## 📫 Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshpreet-singh-03855a31a/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh2099)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=vercel&logoColor=white)](https://ansh2099.github.io/Resume/resume.pdf)
 
 ---
 
